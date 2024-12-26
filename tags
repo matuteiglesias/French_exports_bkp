@@ -1,0 +1,137 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/matias/repos/French_exports_bkp/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+D3PlusViz	code/notebooks/libraries/d3plus2.py	/^class D3PlusViz(object):$/;"	c
+JS_LIBS	code/notebooks/libraries/d3plus2.py	/^    JS_LIBS = ['http:\/\/www.d3plus.org\/js\/d3.js',$/;"	v	class:D3PlusViz
+LorentzExp_PYOD_6610cnt	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+LorentzExp_PYOD_6610val	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+LorentzExp_PYOD_8020cnt	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+LorentzExp_PYOD_8020val	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+LorentzExp_PYOD_div1cnt	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+LorentzExp_PYOD_div1val	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+LorentzImp_PYOD_6610cnt	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+LorentzImp_PYOD_6610val	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+LorentzImp_PYOD_8020cnt	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+LorentzImp_PYOD_8020val	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+LorentzImp_PYOD_div1cnt	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+LorentzImp_PYOD_div1val	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+ProductSpace	code/notebooks/libraries/d3plus2.py	/^class ProductSpace(D3PlusViz):$/;"	c
+RawJavascript	code/notebooks/libraries/d3plus2.py	/^class RawJavascript(str):$/;"	c
+Scatterplot	code/notebooks/libraries/d3plus2.py	/^class Scatterplot(D3PlusViz):$/;"	c
+Treemap	code/notebooks/libraries/d3plus2.py	/^class Treemap(D3PlusViz):$/;"	c
+__init__	code/notebooks/libraries/d3plus2.py	/^    def __init__(self, id='id', name=None, color=None, size=10,$/;"	m	class:ProductSpace
+__init__	code/notebooks/libraries/d3plus2.py	/^    def __init__(self, id=['group', 'id'], value="value", name=None, color=None, tooltip=[]):$/;"	m	class:Treemap
+__init__	code/notebooks/libraries/d3plus2.py	/^    def __init__(self, x="x", y="y", id="id", name=None, color=None, size=10, tooltip=[]):$/;"	m	class:Scatterplot
+agg	code/notebooks/functions.py	/^def agg(s):$/;"	f
+base	figures/trade_margin.svg	/^     inkscape:window-maximized="1" \/>$/;"	i
+cc	figures/trade_margin.svg	/^   sodipodi:docname="trade_margin.svg">$/;"	n	uri:http://creativecommons.org/ns#
+chunk	code/notebooks/functions.py	/^def chunk(s):$/;"	f
+create_container	code/notebooks/libraries/d3plus2.py	/^    def create_container(self):$/;"	m	class:D3PlusViz
+dc	figures/trade_margin.svg	/^   sodipodi:docname="trade_margin.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+defs4	figures/trade_margin.svg	/^     id="defs4" \/>$/;"	i
+draw	code/notebooks/libraries/d3plus2.py	/^    def draw(self, data):$/;"	m	class:D3PlusViz
+dump_html	code/notebooks/libraries/d3plus2.py	/^    def dump_html(self, data, container_id=None):$/;"	m	class:D3PlusViz
+finalize	code/notebooks/functions.py	/^def finalize(s):$/;"	f
+format_js_value	code/notebooks/libraries/d3plus2.py	/^def format_js_value(thing):$/;"	f
+gbtestExpgaussian_rates_pct	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestExpmean_a_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestExpmean_b_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestExpmean_k1_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestExpmean_k2_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestExpmean_xc_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestExpstd_a_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestExpstd_b_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestExpstd_k1_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestExpstd_k2_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestExpstd_xc_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestImpgaussian_rates_pct	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestImpmean_a_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestImpmean_b_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestImpmean_k1_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestImpmean_k2_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestImpmean_xc_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestImpstd_a_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestImpstd_b_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestImpstd_k1_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestImpstd_k2_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+gbtestImpstd_xc_m	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+generate_container_id	code/notebooks/libraries/d3plus2.py	/^    def generate_container_id(self):$/;"	m	class:D3PlusViz
+generate_js	code/notebooks/libraries/d3plus2.py	/^    def generate_js(self, json_data):$/;"	m	class:D3PlusViz
+generate_js	code/notebooks/libraries/d3plus2.py	/^    def generate_js(self, json_data):$/;"	m	class:ProductSpace
+generate_js	code/notebooks/libraries/d3plus2.py	/^    def generate_js(self, json_data):$/;"	m	class:Scatterplot
+generate_js	code/notebooks/libraries/d3plus2.py	/^    def generate_js(self, json_data):$/;"	m	class:Treemap
+handle_data	code/notebooks/libraries/d3plus2.py	/^    def handle_data(self, data):$/;"	m	class:D3PlusViz
+image4867	figures/trade_margin.svg	/^       inkscape:export-ydpi="90" \/>$/;"	i
+image4948	figures/trade_margin.svg	/^       inkscape:export-ydpi="90" \/>$/;"	i
+inkscape	figures/trade_margin.svg	/^   sodipodi:docname="trade_margin.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+layer1	figures/trade_margin.svg	/^     id="layer1">$/;"	i
+lognormal_fit_mu	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+lognormal_fit_muval	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+lognormal_fit_sigma	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+metadata7	figures/trade_margin.svg	/^     id="metadata7">$/;"	i
+monthsActiveExp_bc_cnt_half	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+monthsActiveExp_bc_cnt_last	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+monthsActiveExp_bc_val_half	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+monthsActiveExp_bc_val_last	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+monthsActiveExp_bc_yrs_half	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+monthsActiveExp_bc_yrs_last	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+monthsActiveImpK0	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+monthsActiveImpK1	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+monthsActiveImp_bc_cnt_half	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+monthsActiveImp_bc_cnt_last	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+monthsActiveImp_bc_val_half	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+monthsActiveImp_bc_val_last	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+monthsActiveImp_bc_yrs_half	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+monthsActiveImp_bc_yrs_last	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+network_help	code/notebooks/libraries/d3plus2.py	/^    def network_help(self):$/;"	m	class:ProductSpace
+ns385573140101	figures/trade_margin.svg	/^   sodipodi:docname="trade_margin.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+nuniqueDemoEndYr	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+nuniqueDemoN90CN4M	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+nuniqueDemoN90CN4X	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+nuniqueDemoN90CN8M	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+nuniqueDemoN90CN8X	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+nuniqueDemoN90buyersX	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+nuniqueDemoN90firmsM	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+nuniqueDemoN90firmsX	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+nuniqueDemoN90pyodM	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+nuniqueDemoN90pyodX	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+nuniqueDemoNCN8X	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+nuniqueDemoNbuyersX	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+nuniqueDemoNfirmsX	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+nuniqueDemoNpyodX	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+nuniqueDemoStartYr	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+pareto_optionA0	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+pareto_optionA1	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+path	code/notebooks/libraries/d3plus2.py	/^path = os.path.dirname(__file__)$/;"	v
+path3990	figures/trade_margin.svg	/^       inkscape:export-ydpi="90" \/>$/;"	i
+path4785	figures/trade_margin.svg	/^       inkscape:export-ydpi="90" \/>$/;"	i
+pd	code/notebooks/libraries/d3plus2.py	/^import pandas as pd$/;"	I	nameref:module:pandas
+preprocess_data	code/notebooks/libraries/d3plus2.py	/^    def preprocess_data(self, data):$/;"	m	class:D3PlusViz
+preprocess_data	code/notebooks/libraries/d3plus2.py	/^    def preprocess_data(self, data):$/;"	m	class:ProductSpace
+q910	code/notebooks/variables.json	/^{"nuniqueDemoStartYr": "1997", "nuniqueDemoEndYr": "2013", "nuniqueDemoNfirmsX": "114000", "nuni/;"	s
+rdf	figures/trade_margin.svg	/^   sodipodi:docname="trade_margin.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rect2996	figures/trade_margin.svg	/^       inkscape:export-ydpi="90" \/>$/;"	i
+rgb2hexcolor	code/notebooks/libraries/d3plus2.py	/^def rgb2hexcolor(r, g, b):$/;"	f
+sodipodi	figures/trade_margin.svg	/^   sodipodi:docname="trade_margin.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+svg	figures/trade_margin.svg	/^   sodipodi:docname="trade_margin.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg2	figures/trade_margin.svg	/^   sodipodi:docname="trade_margin.svg">$/;"	i
+text3992	figures/trade_margin.svg	/^       inkscape:export-ydpi="90"><tspan$/;"	i
+text3992-3	figures/trade_margin.svg	/^       inkscape:export-ydpi="90"><tspan$/;"	i
+text4961	figures/trade_margin.svg	/^       inkscape:export-ydpi="90"><tspan$/;"	i
+text4969	figures/trade_margin.svg	/^       inkscape:export-ydpi="90"><tspan$/;"	i
+text4975	figures/trade_margin.svg	/^       inkscape:export-ydpi="90"><tspan$/;"	i
+tspan3994	figures/trade_margin.svg	/^         y="238.57755">10 % of total exports<\/tspan><\/text>$/;"	i
+tspan3994-6	figures/trade_margin.svg	/^         y="450.6951">yearly change<\/tspan><\/text>$/;"	i
+tspan4965	figures/trade_margin.svg	/^         id="tspan4965">Number of firms<\/tspan><\/text>$/;"	i
+tspan4971	figures/trade_margin.svg	/^         y="880.63623">Size bins<\/tspan><\/text>$/;"	i
+tspan4977	figures/trade_margin.svg	/^         y="45.667141">Average yearly change (bn EUR)<\/tspan><\/text>$/;"	i
+validate_data	code/notebooks/libraries/d3plus2.py	/^    def validate_data(self, data):$/;"	m	class:D3PlusViz
+xlink	figures/trade_margin.svg	/^   sodipodi:docname="trade_margin.svg">$/;"	n	uri:http://www.w3.org/1999/xlink
